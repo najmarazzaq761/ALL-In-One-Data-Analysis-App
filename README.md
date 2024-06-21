@@ -1,6 +1,9 @@
 # ALL-In-One-Data-Analysis
+
 🌟 Exciting News! 🌟
+
 Introducing ALL-In-One-Data-Analysis!
+
 I'm thrilled to share my latest project - a Streamlit app designed to streamline the data analysis process! 
 
 This app offers a comprehensive suite of features to make data analysis more accessible and efficient:
